@@ -1,0 +1,7 @@
+#Jovin's contribution for the PayID Feature
+To improve the usaability of the mobile app, i have contributed a user story and description  of the pay id scanner.
+This feature will be allowing the users to scan a qr code containing the id of the reciever.
+It decreases the chances of manual entry error.
+This function eliminates the requirement of copy paste of the details of PayId, saves time and improve the accuracy of transaction.
+My proposal: user taps Scan PAYiD button and app auto fills payment details .
+Additional proposals: UI placements and accessibility, made sure scanner icon is clearly visible acroos multiple devices.
